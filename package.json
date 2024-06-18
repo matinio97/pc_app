@@ -1,0 +1,20 @@
+{
+	"name": "pc",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2",
+		"mongoose": "^8.4.3"
+	},
+	"devDependencies": {
+		"dotenv": "^16.4.5",
+		"nodemon": "^3.1.3"
+	}
+}
